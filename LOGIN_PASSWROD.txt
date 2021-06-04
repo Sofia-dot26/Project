@@ -1,0 +1,10 @@
+Admin
+{
+    "login":"Admin1",
+    "pass":"qwerty"
+}
+User
+{
+    "login":"Ad",
+    "pass":"qwerty"
+}
