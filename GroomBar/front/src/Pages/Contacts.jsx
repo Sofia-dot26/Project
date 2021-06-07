@@ -20,44 +20,44 @@ function Contacts() {
 function ContactMap() {
     return (
         <>
-            <section class="title">
-                <div class="container">
+            <section className="title">
+                <div className="container">
                     <h1> Контакты</h1>
                 </div>
             </section>
-            <section class="blocks">
-                <div class="container">
-                    <div class="blocks_inner">
-                        <div class="blocks_items">
-                            <div class="blocks_title">
+            <section className="blocks">
+                <div className="container">
+                    <div className="blocks_inner">
+                        <div className="blocks_items">
+                            <div className="blocks_title">
                                  
                                 Телефон
                 </div>
-                            <div class="blocks_text">
+                            <div className="blocks_text">
                                 +7(905)755-01-65
                 </div>
                         </div>
-                        <div class="blocks_items">
-                            <div class="blocks_title">
+                        <div className="blocks_items">
+                            <div className="blocks_title">
                                 E-mail
                 </div>
-                            <div class="blocks_text">
+                            <div className="blocks_text">
                                 Groominsalon@gmail.com
                 </div>
                         </div>
-                        <div class="blocks_items">
-                            <div class="blocks_title">
+                        <div className="blocks_items">
+                            <div className="blocks_title">
                                 Адрес
                 </div>
-                            <div class="blocks_text">
+                            <div className="blocks_text">
                                 г.Владимир, ул. Дворянская, 15
                 </div>
                         </div>
-                        <div class="blocks_items">
-                            <div class="blocks_title">
+                        <div className="blocks_items">
+                            <div className="blocks_title">
                                 Режим работы
                 </div>
-                            <div class="blocks_text">
+                            <div className="blocks_text">
                                 9:00-21:00
                                 (Без выходных)
                 </div>
